@@ -12,6 +12,7 @@ I made this project because every now and then i get the urge to create a new ma
 
 ## Case
 <img width="1278" height="392" alt="image" src="https://github.com/user-attachments/assets/f87594a6-5127-49f8-afb7-28e52f6f4698" />
-## BOM
 
 ## BOM
+<img width="609" height="262" alt="image" src="https://github.com/user-attachments/assets/3a292d06-0c9d-4946-9b1d-8a9890fa1565" />
+
