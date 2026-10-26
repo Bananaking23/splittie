@@ -16,3 +16,17 @@ I made this project because every now and then i get the urge to create a new ma
 ## BOM
 <img width="609" height="262" alt="image" src="https://github.com/user-attachments/assets/3a292d06-0c9d-4946-9b1d-8a9890fa1565" />
 
+| Part | Quantity | Price | Total price | Notes | Link |
+|------|----------|-------|-------------|-------|------|
+| PCB | | 17.02 | 18.52 | | [JLCPCB](https://jlcpcb.com) |
+| Switches | 58 | 12.14 | 12.14 | | [AliExpress](https://www.aliexpress.com/item/1005006068116422.html) |
+| Hotswap sockets | 58 | 5.92 | 5.92 | | [AliExpress](https://www.aliexpress.com/item/1005012056973371.html) |
+| SK6812 MINI-E | 58 | 3.26 | 3.26 | optional | [AliExpress](https://www.aliexpress.com/item/1005005186515165.html) |
+| Diodes | 58 | 1.15 | 1.15 | | [AliExpress](https://www.aliexpress.com/item/1005007160563285.html) |
+| Keycaps | 1 set | 10.09 | 10.09 | | [AliExpress](https://www.aliexpress.com/item/1005011935100353.html) |
+| RP2040 Pro Micro | 2 | 2.03 | 4.06 | | [AliExpress](https://www.aliexpress.com/item/1005009890367599.html) |
+| 0.91" OLED | 2 | 2.07 | 2.07 | | [AliExpress](https://www.aliexpress.com/item/1005008640108394.html) |
+| EC11 | 2 | 1.52 | 1.52 | | [AliExpress](https://www.aliexpress.com/item/1005007644083514.html) |
+| USB-C female | 2 | 1.11 | 1.11 | connect 2 halves together | [AliExpress](https://www.aliexpress.com/item/1005008529430881.html) |
+| USB-C cable | 1 | 3.19 | 3.19 | connect 2 halves together | [AliExpress](https://www.aliexpress.com/item/1005008570336761.html) |
+| **Total** | | **63.03** | **77.72** | | |
